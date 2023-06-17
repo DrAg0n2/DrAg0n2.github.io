@@ -1,0 +1,111 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.home{
+    background-image: url('background.jpg');
+    background-size: cover;
+}
+h1{
+    text-align: center;
+    font-size: 48px;
+    color: white;
+    padding-top: 10px;
+    padding-bottom: 20px;
+}
+.sport_type{
+    width: 100%;
+    text-align: center;
+}
+.sport_type img{
+    width: 300px;
+    height: 200px;
+    transition: 0.5s;
+}
+.sport_type img:hover{
+    transform: scale(1.1);
+}
+.section_name{
+    color: white;
+    padding-top: 10px;
+}                                               
+.sport_type a{
+    text-decoration: none;
+}
+header{
+    background-color: aqua;
+    text-align: center;
+    margin-bottom: 30px;
+}
+header a{
+    text-decoration: none;
+    font-size:  50px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: black;
+}
+.football21{
+    text-align: center;
+}
+.football21 img{
+    width: 250px;
+    height: 200px;
+    margin: 15px 50px;
+}
+footer{
+    background-color: black;
+    color: blue;
+    padding: 30px 0px;
+}
+.other-page{
+    width: 100%;
+    text-align: center;
+}
+.other-page a{
+    text-decoration: none;
+    font-size: 24px;
+    color: white;
+}
+footer div{
+    text-align: right;
+    margin: 20px 100px 0;
+    font-size: 16px;
+    border-top: 1px solid white;
+    padding-top: 20px;
+}
+.ggg{
+    width: 900px;
+    margin: 50px auto;
+    background-color: aqua;
+    text-align: center;
+}
+.ggg tr td{
+    padding: 10px ;
+}
+.hhh{
+    font-size: 24px;
+}
+.kkk{
+    background-color: red;
+}
+.mmm{
+    background-color: darkgreen;
+}
+.kkk{
+    background-color:red ;
+}
+.mmm{
+    background-color: darkgreen;
+}
+.page-info{
+    padding-left: 24px;
+}
+.page-info li{
+    padding: 10px 0px;
+}
+.page-info li a{
+    color: black;
+    text-decoration: none;
+}
+.page-info li a:hover{
+    text-decoration: underline;
+}
